@@ -1,0 +1,2 @@
+Censorify is a practice project used to understand the basics of getting started with node.js. A simple program that censors words based on input. Custom words to be censored can be added, and a list of all censored words can be grabbed using a getter function.
+- TEF 7/5/2018
